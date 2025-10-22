@@ -5,6 +5,6 @@ ItaloLeray@GitHub
 OS: Windows 11 x64
 Shell: Windows Terminal
 Location: Brasil, SP
-Learning: JavaScript, Java
-Languages: HTML, CSS
+Learning: React, Java
+Languages: HTML, CSS, React
 ```
